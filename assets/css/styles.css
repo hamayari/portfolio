@@ -1835,6 +1835,18 @@ textarea.contact__input {
   background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
 }
 
+.skill__category-modern:nth-child(4) .skill__progress-fill {
+  background: linear-gradient(90deg, #43e97b 0%, #38f9d7 100%);
+}
+
+.skill__category-modern:nth-child(5) .skill__progress-fill {
+  background: linear-gradient(90deg, #fa709a 0%, #fee140 100%);
+}
+
+.skill__category-modern:nth-child(6) .skill__progress-fill {
+  background: linear-gradient(90deg, #30cfd0 0%, #330867 100%);
+}
+
 /* Responsive */
 @media screen and (max-width: 768px) {
   .skill__name-icon span {
